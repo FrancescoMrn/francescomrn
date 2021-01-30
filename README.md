@@ -1,10 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Francesco</h1>
+<h3 align="center">a data science interested in data-driven methods in predictive maintenance applications</h3>
+
+- 🔭 I’m currently working on deep learning methods in prognostics
+- 🌱 I’m currently learning Bayesian deep learning, uncentanty estimation and ML deployment
+- 📫 How to reach me: feel free to add me on [LinkedIn](https://www.linkedin.com/in/francesco-mrn/) 😉
+
 
 <!--
 **FrancescoMrn/francescomrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
