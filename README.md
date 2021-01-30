@@ -2,7 +2,7 @@
 <h3 align="center">a data science interested in data-driven methods in predictive maintenance applications</h3>
 
 - 🔭 I’m currently working on deep learning methods in prognostics
-- 🌱 I’m currently learning Bayesian deep learning, uncentanty estimation and ML deployment
+- 🌱 I’m currently learning Bayesian deep learning, uncertainty estimation and ML deployment
 - 📫 How to reach me: feel free to add me on [LinkedIn](https://www.linkedin.com/in/francesco-mrn/) 😉
 
 
