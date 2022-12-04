@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Francesco</h1>
-<h3 align="center">a data science interested in data-driven methods in predictive maintenance applications</h3>
+<h3 align="center">Data Science working in the field of predictive maintenance 🤖</h3>
 
-- 🔭 I’m currently working on deep learning methods in prognostics
-- 🌱 I’m currently learning Bayesian deep learning, uncertainty estimation and ML deployment
-- 📫 How to reach me: feel free to add me on [LinkedIn](https://www.linkedin.com/in/francesco-mrn/) 😉
+- 🔭 I’m currently working on Deep Learning methods in Prognostics
+- 🌱 I’m currently learning Bayesian Deep Learning, Uncertainty estimation and MLOps deployment
+- 📫 How to reach me: feel free to write me on [LinkedIn](https://www.linkedin.com/in/francesco-mrn/) 😉
 
 
 <!--
