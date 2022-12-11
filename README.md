@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Francesco</h1>
-<h3 align="center">Data Science working in the field of predictive maintenance 🤖</h3>
+<h3 align="center">Data Science working in the field of Predictive Maintenance 🤖</h3>
 
 - 🔭 I’m currently working on Deep Learning methods in Prognostics
 - 🌱 I’m currently learning Bayesian Deep Learning, Uncertainty estimation and MLOps deployment
