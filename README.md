@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Francesco</h1>
-<h3 align="center">Data Science working in the field of Predictive Maintenance 🤖</h3>
+<h3 align="center">Data Scientist working in the field of Predictive Maintenance 🤖</h3>
 
-- 🔭 I’m currently working on Deep Learning methods in Prognostics
-- 🌱 I’m currently learning Bayesian Deep Learning, Uncertainty estimation and MLOps deployment
-- 📫 How to reach me: feel free to write me on [LinkedIn](https://www.linkedin.com/in/francesco-mrn/) 😉
-
+🔭 I'm currently focused on applying Deep Learning methods to Prognostics and I am actively learning about Bayesian Deep Learning and Uncertainty estimation.
+📫 If you'd like to connect or have any questions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/francesco-mrn/). I'm always happy to discuss and learn more about Data Science.
 
 <!--
 **FrancescoMrn/francescomrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
